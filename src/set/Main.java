@@ -58,9 +58,12 @@ public class Main {
         phone.put("Тимур Тимуров", "8-900-999-99-99");
         phone.put("Ульяна Ульянова", "8-921-321-48-87");
 
+
+
         System.out.println(phone.values());
         System.out.println(phone.get("Ольга Ольгавна"));
 
+        System.out.println();
         System.out.println();
 
 
